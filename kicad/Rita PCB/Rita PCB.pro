@@ -1,4 +1,4 @@
-update=Thursday, January 05, 2017 'PMt' 06:26:22 PM
+update=Wednesday, March 23, 2016 'PMt' 09:33:24 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -20,14 +20,11 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
-[cvpcb]
-version=1
-NetIExt=net
 [general]
 version=1
 [eeschema]
 version=1
-LibDir=../../../../../Downloads/Arduino_Shield_Modules_for_KiCad_V3
+LibDir=/Users/jake/Documents/KiKad Mods and Libs
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,3 +56,6 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=arduino_shieldsNCL
+[cvpcb]
+version=1
+NetIExt=net
